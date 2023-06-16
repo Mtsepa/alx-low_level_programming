@@ -1,5 +1,6 @@
 #include <stdio.h>
 /**
+*The main function is the entry point of the program. 
 *main- main entry point
 *return: Always 0 (success)
 */
